@@ -20,7 +20,7 @@ A step by step series of examples that tell you have to get a development env ru
 Clone this repository:
 
 ```
-git clone https://github.com/howlla/<this_repository.git>
+git clone https://github.com/Howlla/EthereumCarSupplyChain.git
 ```
 
 Change directory to ```app``` folder and install all requisite npm packages (as listed in ```package.json```):
